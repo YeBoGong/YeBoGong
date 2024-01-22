@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YeBoGong
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Computer Science at Western University```
+- 🌱 I’m currently studying Computer Science at Western University```
 <!-- - 📫 How to reach me
 Instagram: yb.gong_
 --->
