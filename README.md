@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @YeBoGong
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently studying Computer Science at Western University```
+- Hi, I’m Ye Bo Gong
+- I’m interested in software development, OSINT and cybersecurity. 
+- I’m currently studying computer science at Western University
 <!-- - 📫 How to reach me
 Instagram: yb.gong_
 --->
